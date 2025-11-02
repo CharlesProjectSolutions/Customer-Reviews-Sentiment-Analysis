@@ -48,11 +48,12 @@ This project analyzes **3,900+ British Airways customer reviews** using **Natura
 ✔ **Improve Customer Support Response Time** – Many complaints about slow refunds & issue resolution.  
 ✔ **Enhance Communication on Flight Status** – Frequent frustration with unexpected cancellations.  
 ✔ **Increase Comfort in Economy Class** – Seat comfort was a recurring complaint.  
-✔ **Optimize Baggage Handling** – Customers expressed dissatisfaction with lost luggage.  
+✔ **Optimize Operations & Baggage Handling** – Customers expressed dissatisfaction with lost luggage.  
 
 
 ## Expected Benefits:  
-- Increased **customer satisfaction and loyalty**  
+- Strengthen **brand loyalty & increase customer satisfaction**
+- Enhance **customer satisfaction**
 - Fewer **negative reviews & social media complaints**  
 - Enhanced **brand reputation & customer retention**  
 
