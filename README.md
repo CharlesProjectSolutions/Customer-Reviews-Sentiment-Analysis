@@ -51,7 +51,7 @@ This project analyzes **3,900+ British Airways customer reviews** using **Natura
 ✔ **Optimize Baggage Handling** – Customers expressed dissatisfaction with lost luggage.  
 
 
-** Expected Benefits:**  
+## Expected Benefits:  
 - Increased **customer satisfaction and loyalty**  
 - Fewer **negative reviews & social media complaints**  
 - Enhanced **brand reputation & customer retention**  
