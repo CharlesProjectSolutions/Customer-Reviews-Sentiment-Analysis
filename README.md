@@ -50,6 +50,7 @@ This project analyzes **3,900+ British Airways customer reviews** using **Natura
 ## 🎯 Business Impact & Recommendations
 
 **How British Airways can improve based on data insights:**
+
 ✔ **Improve Customer Support Response Time** – Many complaints about slow refunds & issue resolution.  
 ✔ **Enhance Communication on Flight Status** – Frequent frustration with unexpected cancellations.  
 ✔ **Increase Comfort in Economy Class** – Seat comfort was a recurring complaint.  
@@ -63,7 +64,10 @@ This project analyzes **3,900+ British Airways customer reviews** using **Natura
 ---
 
 ## 🔮 Future Improvements
+
 💡 Use Deep Learning (BERT, GPT) for more accurate sentiment classification.
+
 💡 Build a dashboard using Power BI/Tableau to visualize insights dynamically.
+
 💡 Implement automated alerts for sudden spikes in negative reviews.
 
