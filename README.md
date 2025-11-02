@@ -28,9 +28,9 @@ This project analyzes **3,900+ British Airways customer reviews** using **Natura
 ## 📊 Key Findings
 
 ### **🔹 Sentiment Analysis**
-- **67% were positive**, with praise for **crew friendliness, comfort, and food quality**.
-- **32% of reviews were negative**, highlighting issues like **delays, cancellations, and poor customer service**.
-- **1% were neutral**, indicating mixed experiences.
+- **67% positive** ratings, with praise for **crew friendliness, comfort, and food quality**.
+- **32% negative** ratings, highlighting issues like **delays, cancellations, and poor customer service**.
+- **1% neutral**, indicating mixed experiences.
 
 ### **🔹 Topic Modeling (LDA) - 5 Key Themes**
 1️⃣ **Positive Experiences** – Crew service, food, and business class comfort.  
