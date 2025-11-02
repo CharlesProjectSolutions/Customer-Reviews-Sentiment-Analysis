@@ -32,7 +32,7 @@ This project analyzes **3,900+ British Airways customer reviews** using **Natura
 - **32% negative** ratings, highlighting issues like **delays, cancellations, and poor customer service**.
 - **1% neutral**, indicating mixed experiences.
 
-### **🔹 Topic Modeling (LDA) - 5 Key Themes**
+### ** Topic Modeling (LDA) - 5 Key Themes**
 1️⃣ **Positive Experiences** – Crew service, food, and business class comfort.  
 2️⃣ **Customer Complaints** – Cancellations, refund issues, and poor customer service.  
 3️⃣ **Flight Experience** – Long wait times, security checks, and boarding delays.  
@@ -50,7 +50,8 @@ This project analyzes **3,900+ British Airways customer reviews** using **Natura
 ✔ **Increase Comfort in Economy Class** – Seat comfort was a recurring complaint.  
 ✔ **Optimize Baggage Handling** – Customers expressed dissatisfaction with lost luggage.  
 
-**🔹 Expected Benefits:**  
+
+** Expected Benefits:**  
 - Increased **customer satisfaction and loyalty**  
 - Fewer **negative reviews & social media complaints**  
 - Enhanced **brand reputation & customer retention**  
