@@ -14,7 +14,6 @@ This project analyzes **3,900+ British Airways customer reviews** using **Natura
 ## 📊 Dataset Details
 - **Source:** Scraped customer reviews from Skytrax
 - **Size:** ~3,900+ reviews
-- **Columns:** `Title`, `Rating`, `Review Content`, `Date`
 - **Challenges:** Unstructured text, missing values, and redundant data
 
 ---
@@ -38,12 +37,7 @@ This project analyzes **3,900+ British Airways customer reviews** using **Natura
 2️⃣ **Customer Complaints** – Cancellations, refund issues, and poor customer service.  
 3️⃣ **Flight Experience** – Long wait times, security checks, and boarding delays.  
 4️⃣ **Seating & Class Experience** – Complaints about economy seating discomfort.  
-5️⃣ **Lounge & Airport Experience** – Heathrow Terminal 5 feedback, lounge quality, and wait times.  
-
-### **🔹 Time-Series Analysis**
-- Reviews span from **2011 to 2025**, with most data between **2014-2019**.
-- **Average ratings have decreased over time**, from **5.97 (2014) → 3.35 (2023)**.
-- **May had the highest average rating (5.06), while July had the lowest (4.38).**
+5️⃣ **Lounge & Airport Experience** – Heathrow Terminal 5 feedback, lounge quality, and wait times.
 
 ---
 
