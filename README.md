@@ -32,7 +32,7 @@ This project analyzes **3800+ British Airways customer reviews** using **Natural
 - **32% negative** ratings, highlighting issues like **delays, cancellations, and poor customer service**.
 - **1% neutral**, indicating mixed experiences.
 
-### ** Topic Modeling (LDA) - 5 Key Themes**
+### Topic Modeling (LDA) - 5 Key Themes
 1️⃣ **Positive Experiences** – Crew service, food, and business class comfort.  
 2️⃣ **Customer Complaints** – Cancellations, refund issues, and poor customer service.  
 3️⃣ **Flight Experience** – Long wait times, security checks, and boarding delays.  
