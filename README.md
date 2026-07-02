@@ -61,9 +61,11 @@ This project analyzes **3800+ British Airways customer reviews** using **Natural
 
 ## 🔮 Future Improvements
 
-💡 Use Deep Learning (BERT, GPT) for more accurate sentiment classification.
-
-💡 Build a dashboard using Power BI/Tableau to visualize insights dynamically.
-
-💡 Implement automated alerts for sudden spikes in negative reviews.
+💡 Build a Tableau or Power BI executive dashboard that lets users:
+✔ **Filter sentiment by route,
+✔ **Compare review themes over time,
+✔ **Drill into negative reviews by topic,
+✔ **Monitor sentiment trends,
+✔ **Use Deep Learning (BERT, GPT) for more accurate sentiment classification.
+✔ **Implement automated alerts for sudden spikes in negative reviews.
 
