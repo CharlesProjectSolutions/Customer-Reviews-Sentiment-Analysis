@@ -1,4 +1,4 @@
-# ✈ British Airways Customer Review Analysis 📝
+# ✈ Customer Experience Analytics | Voice of Customer (VoC) & Sentiment Intelligence 📝
 
 ## 📌 Project Overview
 This project analyzes **3800+ British Airways customer reviews** using **Natural Language Processing (NLP), Sentiment Analysis, and Topic Modeling** to uncover key trends in customer sentiment. The goal is to provide **data-driven insights** to improve customer satisfaction by identifying major pain points and areas of excellence.
